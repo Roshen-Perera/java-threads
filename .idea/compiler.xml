@@ -6,7 +6,20 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="inter-thread-communication" />
+        <module name="thread-introduction" />
+        <module name="lambda-expression" />
+        <module name="runnable-introduction" />
+        <module name="synchronized-keyword" />
+        <module name="extend-thread-class" />
+        <module name="join-isAlive" />
+        <module name="thread-priority" />
+        <module name="implement-runnable-interface" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="lamba-threads" target="11" />
+      <module name="threads-introduction" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

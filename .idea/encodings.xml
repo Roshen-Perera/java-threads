@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/extend-thread-class/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/extend-thread-class/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/implement-runnable-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/implement-runnable-interface/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inter-thread-communication/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/inter-thread-communication/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/join-isAlive/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/join-isAlive/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lambda-expression/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lambda-expression/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/runnable-introduction/lamba-threads/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/runnable-introduction/lamba-threads/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/runnable-introduction/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/runnable-introduction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/synchronized-keyword/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/synchronized-keyword/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thread-introduction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thread-introduction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thread-priority/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/thread-priority/src/main/resources" charset="UTF-8" />
   </component>
 </project>
